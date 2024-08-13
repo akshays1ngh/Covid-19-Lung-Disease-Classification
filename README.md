@@ -1,3 +1,6 @@
+**## Project Overview**
+
+
 ->Model Training: 
 The notebook focuses on training a DenseNet121 model for lung disease classification, incorporating image preprocessing, augmentation, and hyperparameter tuning to optimize accuracy, with training visualizations provided.
 
